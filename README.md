@@ -22,7 +22,7 @@ The database used in source are **MongoDB**, using node.js package **Mongoose**.
   npm install discord.js dotenv mongoose nodemon
   ```
 3. Install **Typescript** stuff (optional if you have no plan writing Typescript, but recommended)
-     ```node
+  ```node
   npm install typescript ts-node @types/node --save-dev
   npx tsc --init
   ```
