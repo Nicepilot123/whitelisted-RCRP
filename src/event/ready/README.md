@@ -4,3 +4,4 @@ Good to use for sending panel, debugging or something.
 
  ⚠️ **WARNING**
  - Don't change eventHandler and index.js
+ - Register Command (regcommand.js) is used for registering new command, don't remove.
