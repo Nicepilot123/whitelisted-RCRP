@@ -17,5 +17,19 @@ The database used in source are **MongoDB**, using node.js package **Mongoose**.
   ```node
   npm init -y
   ```
+2. Install package
+  ```node
+  npm install discord.js dotenv mongoose nodemon
+  ```
+3. Install **Typescript** stuff (optional if you have no plan writing Typescript, but recommended)
+     ```node
+  npm install typescript ts-node @types/node --save-dev
+  npx tsc --init
+  ```
+4. Run Command in Terminal:
+  ```bash
+  nodemon src/index.js
+  ```
+You can change your source file anywhere, but it must direct to **index.js** file everytime. `nodemon (file directory)`
 
 
