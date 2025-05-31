@@ -7,5 +7,8 @@ The database used in source are **MongoDB**, using node.js package **Mongoose**.
 - Avoid overloading database
 - Use typescript as much as possible
 
+📋 **NOTE:**
+- Your file should've more file than this, such as node_module, .vscode and more. It won't be put in our file today
+
 # How to Use
 
