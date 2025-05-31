@@ -32,4 +32,8 @@ The database used in source are **MongoDB**, using node.js package **Mongoose**.
   ```
 You can change your source file anywhere, but it must direct to **index.js** file everytime. `nodemon (file directory)`
 
-
+# Credit
+Thanks you:
+1. Source File for ultils, eventHandler and essential file - notunderctrl
+2. Error Fixer - ChatGPT, Grok, DeepSeek, Claud
+3. RCRP Developer - Bugkung1412
