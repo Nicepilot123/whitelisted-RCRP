@@ -6,6 +6,15 @@ This support **Javascript** and **Typescript**. Feel free to use any of them
 - Always export function proper or you will receive error
 - There is different way to register slash command via **Javascript** and **Typescript**
 
+📋 **NOTE:**
+- PermissionFlagBits is not recommended nor best way to do it. Do check roles and stuff normally.
+```js
+if (member.roles.cache.has("ROLE_ID")) {
+// MAKE SURE TO RETURN IT!!
+  return interaction.reply("❌ Not Enough Permission")
+}
+```
+
 # How to Use
 Start code with this;
 1. Normal Way (Idk what its called):
