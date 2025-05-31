@@ -9,6 +9,7 @@ The database used in source are **MongoDB**, using node.js package **Mongoose**.
 
 📋 **NOTE:**
 - Your file should've more file than this, such as node_module, .vscode and more. It won't be put in our file today
+- .envExample file should be name **EXACTLY** `.env`
 
 # How to Use
 
