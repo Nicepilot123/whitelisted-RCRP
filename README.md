@@ -12,4 +12,10 @@ The database used in source are **MongoDB**, using node.js package **Mongoose**.
 - .envExample file should be name **EXACTLY** `.env`
 
 # How to Use
+1. Install [Node.js](https://nodejs.org/en/download)
+2. Install npm
+  ```node
+  npm init -y
+  ```
+
 
