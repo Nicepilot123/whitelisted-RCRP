@@ -9,7 +9,7 @@ This support **Javascript** and **Typescript**. Feel free to use any of them
 # How to Use
 Start code with this;
 1. Normal Way (Idk what its called):
-     ```js
+```js
 const { PermissionFlagBits } = require('discord.js');
   
   module.exports = {
@@ -21,7 +21,7 @@ const { PermissionFlagBits } = require('discord.js');
     callback: (cilent, interaction) => {
       // code here
     }
-    ```
+```
 
 2. Number 1 way but TypeScript
 
