@@ -11,6 +11,13 @@ The database used in source are **MongoDB**, using node.js package **Mongoose**.
 - Your file should've more file than this, such as node_module, .vscode and more. It won't be put in our file today
 - .envExample file should be name **EXACTLY** `.env`
 
+📥 **PACKAGE USED:**
+1. [discord.js (Required)](https://discord.js.org/)
+2. [nodemon](https://www.npmjs.com/package/nodemon)
+3. [eslint/js](https://www.npmjs.com/package/@eslint/js)
+4. [dotenv (Required)](https://www.npmjs.com/package/dotenv)
+5. [Mongoose](https://www.npmjs.com/package/mongoose) - [MongoDB Database](https://www.mongodb.com)
+   
 # How to Use
 1. Install [Node.js](https://nodejs.org/en/download)
 2. Install npm
