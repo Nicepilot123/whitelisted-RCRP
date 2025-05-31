@@ -1,2 +1,5 @@
-# whitelisted-RCRP
-Open Source for Whitelisted River City Roleplay (Discord Bot - discord.js and ts)
+# W(WL) River City Roleplay - Bot
+Open Source **FOR DEVELOPER ONLY**.
+
+# How to Use
+
