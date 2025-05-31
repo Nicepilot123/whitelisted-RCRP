@@ -7,10 +7,10 @@ This file is use for handling event such as **Modal**, **Button** and more that'
 
 # How to Use
 Start your code with:
-\`\`\`js
+```js
 const { package needed } = require('discord.js');
   
 module.exports = async (client, interaction) => {
   // all code here
 }
-\`\`\`
+
