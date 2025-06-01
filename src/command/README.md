@@ -54,7 +54,7 @@ const command: Command = {
     callback: async (client: Client, interaction: ChatInputCommandInteraction) =>{
     // code here
 }
-    ```
+```
 
 3. Option System
 ```js
