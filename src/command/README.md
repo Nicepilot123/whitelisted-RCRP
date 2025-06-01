@@ -66,7 +66,6 @@ module.exports = {
     .setDescription('') // Same with number 1
 // There is String, Integer, Number, Boolean, User, Channel, Role, Mentionable (user or role)
 // You can change the option - .addXYZOption
-Attachment (file upload)
     .addUserOption(option =>
       option.setName('') // Name
         .setDescription('') // Option Description
