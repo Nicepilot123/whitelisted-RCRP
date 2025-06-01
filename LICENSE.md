@@ -1,4 +1,4 @@
-Custom License for Whitelisted - River City Roleplay Bot
+Custom License for "(WL) River City Roleplay" Ultility Bot
 
 Copyright (c) 2025 Bugkung1412, RCRP Development Team
 
